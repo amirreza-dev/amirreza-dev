@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @amirreza-dev
+- 👋 Hi, I’m Amirreza
 - 👀 I’m interested in React Js and Frontend development
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
 - 📫 This is how you can reach me https://amirreza.dev
 
 <!---
